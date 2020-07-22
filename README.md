@@ -7,7 +7,7 @@ Profile Application(Login,Registration)
 
 ![Test Image 2](“splash.jpeg”)
 
-![Test Image 3](/splash.jpeg)
+![Test Image 3](screenshot/splash.jpeg)
 
 
 
